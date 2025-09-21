@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fransisca Agustina</h1>
-<h3 align="center">A passionate frontend developer from Surabaya</h3>
+<h3 align="center">A passionate fullstack developer from Surabaya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cciia&label=Profile%20views&color=0e75b6&style=flat" alt="cciia" /> </p>
 
