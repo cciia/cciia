@@ -85,16 +85,6 @@ I'm deeply passionate about:
 
 ---
 
-## ✨ Featured Projects
-
-> Coming soon with magical descriptions... 🍓✨
-
-```
-🌸 Each project crafted with care and coffee ☕
-```
-
----
-
 <div align="center">
 
 ## 📫 Connect With Me
@@ -117,13 +107,8 @@ Let's collaborate and create something beautiful together! 💕
 
 ---
 
-## 🌷 Footer
-
 <div align="center">
 
-```
-Made with ☕, 🍓, and lots of pink energy ✨
-```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=13&duration=3000&pause=1000&color=FFB6D9&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%92%BB✨;Spread+positivity+through+code!+%F0%9F%8C%B8" alt="Footer" />
 
