@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=FFB6D9&center=true&vCenter=true&width=800&height=100&lines=Hey%2C+I'm+Here+✨;Full+Stack+Developer+%F0%9F%92%BB;Passionate+About+Code+%26+Design+%F0%9F%8C%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=FFB6D9&center=true&vCenter=true&width=800&height=100&lines=Hey%2C+I'm+Fransisca+✨;Full+Stack+Developer+%F0%9F%92%BB;Passionate+About+Code+%26+Design+%F0%9F%8C%B8" alt="Typing SVG" />
 
 </div>
 
@@ -9,13 +9,6 @@
 <div align="center">
 
 ### 🍓 Welcome 🌸
-
-```
-╔═══════════════════════════════════════╗
-║     Exploring Code & Creating Magic   ║
-║     One Line at a Time ✨              ║
-╚═══════════════════════════════════════╝
-```
 
 📍 **Surabaya, Indonesia** | 💻 **Full Stack Developer**  
 
@@ -36,7 +29,7 @@ I'm deeply passionate about:
 ## 🍓 Fun Facts About Me
 
 ```
-├─ 🧀 I don't like cheese
+🧀 I don't like cheese
 
 ```
 
@@ -150,13 +143,5 @@ Made with ☕, 🍓, and lots of pink energy ✨
 ```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=13&duration=3000&pause=1000&color=FFB6D9&center=true&vCenter=true&width=500&lines=Happy+Coding!+%F0%9F%92%BB✨;Spread+positivity+through+code!+%F0%9F%8C%B8" alt="Footer" />
-
-</div>
-
----
-
-<div align="center">
-
-**P.S.** Thanks for visiting my profile! Don't forget to ⭐ my repos if you find them helpful! 💕
 
 </div>
