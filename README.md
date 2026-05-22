@@ -30,7 +30,6 @@ I'm deeply passionate about:
 
 ```
 🧀 I don't like cheese
-
 ```
 
 ---
@@ -61,22 +60,6 @@ I'm deeply passionate about:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
----
-
-## 🚀 Skills & Expertise
-
-<div align="center">
-
-| 💡 Core Competencies |
-|:---:|
-| **Backend Development** • REST API Design |
-| **CRUD Operations** • Database Architecture |
-| **Laravel & CakePHP MVC** • SQL Optimization |
-| **AI Integration** • Frontend Fundamentals |
-| **UI/UX Basic Design** • Version Control |
 
 </div>
 
