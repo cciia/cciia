@@ -10,7 +10,7 @@
 
 ### 🍓 Welcome 🌸
 
-📍 **Surabaya, Indonesia** | 💻 **Full Stack Developer**  
+📍 **Kediri, Indonesia** | 💻 **Full Stack Developer**  
 
 ---
 
